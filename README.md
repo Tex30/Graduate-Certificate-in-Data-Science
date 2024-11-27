@@ -6,33 +6,33 @@ Assignments in [**_GC173KP19 - Graduate Certificate in Data Science_**](https://
 
 ## Data Wrangling:
 [View Data Wrangling Folder](posts/Data-Wrangling/)
-- Pre-processing data project: [code](posts/Data-Wrangling/a1/MichaelTeixeiraAssignment1.html) | [handout](posts/Data-Wrangling/a1/MichaelTeixeiraS4133975.pdf)
-- Coding exercises: [code](posts/Data-Wrangling/a2/MATH2405_Assignment_2.html) | [handout](posts/Data-Wrangling/a2/MichaelTeixeiraS4133975.pdf)
+- Pre-processing data project: [code](/Data-Wrangling/a1/MichaelTeixeiraAssignment1.html) | [handout](Data-Wrangling/a1/MichaelTeixeiraS4133975.pdf)
+- Coding exercises: [code](Data-Wrangling/a2/MATH2405_Assignment_2.html) | [handout](Data-Wrangling/a2/MichaelTeixeiraS4133975.pdf)
 - Applied relational data project: 
-  [code](posts/Data-Wrangling/a3/MATH2405_Assignment.html) | 
-  [handout](posts/Data-Wrangling/a3/Michael%20Teixeira%20S4133975.pdf) | 
+  [code](Data-Wrangling/a3/MATH2405_Assignment.html) | 
+  [handout](Data-Wrangling/a3/Michael%20Teixeira%20S4133975.pdf) | 
   [presentation](https://www.loom.com/share/09e8b3ec0782438ebd5ba8afc8db0248?sid=764b1c4c-f4a2-473d-9a54-faf9d25f6109)
 
 ## Practical Data Science with Python:
-[View Practical Data Science Folder](posts/Practical-Data-Science-with-Python/)
+[View Practical Data Science Folder](Practical-Data-Science-with-Python/)
 - Dataset preparation report: 
-  [code](posts/Practical-Data-Science-with-Python/a1/assignment1.html) | 
-  [handout](posts/Practical-Data-Science-with-Python/a1/report.pdf)
+  [code](Practical-Data-Science-with-Python/a1/assignment1.html) | 
+  [handout](Practical-Data-Science-with-Python/a1/report.pdf)
 - Data modelling report: 
-  [code](posts/Practical-Data-Science-with-Python/a2/Assignment2.html) | 
-  [handout](posts/Practical-Data-Science-with-Python/a2/report.pdf)
+  [code](Practical-Data-Science-with-Python/a2/Assignment2.html) | 
+  [handout](Practical-Data-Science-with-Python/a2/report.pdf)
 - Data modelling presentation: 
-  [code](posts/Practical-Data-Science-with-Python/a3/assignment3.html) | 
+  [code](Practical-Data-Science-with-Python/a3/assignment3.html) | 
   [presentation](https://drive.google.com/file/d/1pmHBuRym4nhtFVxYzLTfmvdDq8zkCqIL/view?usp=drive_link)
 
 ## Data Visualisation and Communication:
-[View Data Visualisation Folder](posts/Data-Visualisation-and-Communication/)
+[View Data Visualisation Folder](Data-Visualisation-and-Communication/)
 - Data visualisation storytelling: 
-  [pdf](posts/Data-Visualisation-and-Communication/a1/MichaelTeixeiraS4133975.pdf) | 
+  [pdf](Data-Visualisation-and-Communication/a1/MichaelTeixeiraS4133975.pdf) | 
   [vodcast](https://rmiteduau-my.sharepoint.com/:v:/g/personal/s4133975_student_rmit_edu_au/EXHp8KUqKxVDhe38vbiXWtwByb8hVjNMZEf06sLzxKZGKA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Pgnpjl)
 - Data visualisation critique: 
-  [code](posts/Data-Visualisation-and-Communication/a2/Assignment2.html) | 
-  [handout](posts/Data-Visualisation-and-Communication/a2/MichaelTeixeiraS4133975.pdf)
+  [code](Data-Visualisation-and-Communication/a2/Assignment2.html) | 
+  [handout](Data-Visualisation-and-Communication/a2/MichaelTeixeiraS4133975.pdf)
 - Storytelling with open data: TBD
 
 [View on GitHub](https://github.com/Tex30/Graduate-Certificate-in-Data-Science/)
