@@ -5,7 +5,7 @@ Assignments in [**_GC173KP19 - Graduate Certificate in Data Science_**](https://
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Tex30/Graduate-Certificate-in-Data-Science/)
 
 ## Data Wrangling:
-[View Data Wrangling Folder](posts/Data-Wrangling/)
+[View Data Wrangling Folder](Data-Wrangling/)
 - Pre-processing data project: [code](/Data-Wrangling/a1/MichaelTeixeiraAssignment1.html) | [handout](Data-Wrangling/a1/MichaelTeixeiraS4133975.pdf)
 - Coding exercises: [code](Data-Wrangling/a2/MATH2405_Assignment_2.html) | [handout](Data-Wrangling/a2/MichaelTeixeiraS4133975.pdf)
 - Applied relational data project: 
